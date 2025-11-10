@@ -86,7 +86,7 @@ export function Footer() {
         </div>
 
         <div className="border-t border-border mt-8 pt-8 text-center text-sm text-muted-foreground">
-          <p>&copy; 2025 ML OptimizerViz. Built for educational purposes.</p>
+          <p>&copy; 2025 ML OptimizerViz. Built for educational purposes. By Vikhyath</p>
         </div>
       </div>
     </footer>
